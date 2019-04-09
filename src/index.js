@@ -1,6 +1,6 @@
 import React from "react";
 
-const ReactColorSquare = props => {
+const ReactAdequateAutocomplete = props => {
     const { width, height, color, text } = props;
     return (
         <div
@@ -15,4 +15,4 @@ const ReactColorSquare = props => {
     );
 };
 
-export default ReactColorSquare;
+export default ReactAdequateAutocomplete;
